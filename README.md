@@ -18,8 +18,7 @@ Credit_Card_Fraud_Detection/
 │   └── creditcard.csv
 ├── notebooks/
 │   ├── EDA.ipynb
-│   ├── Preprocessing.ipynb
-│   └── Model.ipynb
+│   ├── Modeling.ipynb
 ├── requirements.txt
 └── README.md
 ```
